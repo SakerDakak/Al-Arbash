@@ -1,0 +1,79 @@
+<!DOCTYPE html><html><head>
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Al-Arbash Dashboard">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Al-Arbash Dashboard.">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png">
+
+  <title>Al-Arbash</title>
+  <link rel="manifest" href="manifest.json">
+
+  <script>
+    // The value below is injected by flutter build, do not touch.
+    var serviceWorkerVersion = '3951570755';
+  </script>
+  <!-- This script adds the flutter initialization JS code -->
+  <script src="flutter.js" defer=""></script>
+  <link rel="stylesheet" type="text/css" href="splash/style.css">
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+  <script src="splash/splash.js"></script>
+</head>
+
+
+<body>
+<picture id="splash">
+      <source srcset="splash/img/light-1x.png 1x, splash/img/light-2x.png 2x, splash/img/light-3x.png 3x, splash/img/light-4x.png 4x" media="(prefers-color-scheme: light)">
+      <source srcset="splash/img/dark-1x.png 1x, splash/img/dark-2x.png 2x, splash/img/dark-3x.png 3x, splash/img/dark-4x.png 4x" media="(prefers-color-scheme: dark)">
+      <img class="center" aria-hidden="true" src="splash/img/light-1x.png" alt="">
+  </picture>
+
+<!-- Text OCR -->
+<script src='https://unpkg.com/tesseract.js@2.1.0/dist/tesseract.min.js'></script>
+<script>
+    async function _extractText(imagePath , mapData){
+      var worker = Tesseract.createWorker();
+      await worker.load();
+      await worker.loadLanguage(mapData.language)
+      await worker.initialize(mapData.language)
+      await worker.setParameters(mapData.args)
+      var rtn = await worker.recognize(imagePath, {}, worker.id);
+      await worker.terminate();
+      if(mapData.args["tessjs_create_hocr"]){
+        return rtn.data.hocr;
+      }
+      return rtn.data.text;
+    }
+  </script>
+
+
+<!-- QR Scan -->
+<script src="jsQR.js" type="application/javascript"></script> <!-- Add this line -->
+
+<!-- Flutter -->
+  <script>
+    window.addEventListener('load', function(ev) {
+      // Download main.dart.js
+      _flutter.loader.loadEntrypoint({
+        serviceWorker: {
+          serviceWorkerVersion: serviceWorkerVersion,
+        },
+        onEntrypointLoaded: function(engineInitializer) {
+          engineInitializer.initializeEngine().then(function(appRunner) {
+            appRunner.runApp();
+          });
+        }
+      });
+    });
+  </script>
+
+
+</body></html>

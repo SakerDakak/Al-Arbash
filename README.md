@@ -1,7 +1,11 @@
 <p align="center">
  <img width="100px" src="https://raw.githubusercontent.com/SakerDakak/Al-Arbash/main/icons/Icon-192.png" align="center" alt="Kitchen Orders" />
  <h1 align="center">Al-Arbash Jewelry</h1>
- <p align="center">Restaurant kitchen orders management application<br>Kitchen workers can take in new orders and deliver ready orders.</p>
+ <p align="center" >This project manages jewelry for a Saudi Arabian store chain through a website and two mobile apps
+ <br>
+ one for employees and the other for post-sale customer support.
+ <br>
+ They facilitate administrative operations like employee management, inventory, sales, profits, and support.
 
 ## Dashboard
 web: https://sakerdakak.github.io/Al-Arbash/

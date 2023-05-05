@@ -5,9 +5,28 @@
 
 ## Dashboard
 web: https://sakerdakak.github.io/Al-Arbash/
+| Type           | Email             | Password  |
+|----------------|-------------------|-----------|
+| Admin          | test@admin.com    | 123456789 |
+| Partner        | test@partner.com  | 123456789 |
+| Branch Maneger | test@maneger.com  | 123456789 |
+| Employee       | test@employee.com | 123456789 |
 
-## APK
-Download: https://github.com/SakerDakak/Kitchen-Orders/releases/download/KitchenOrders/KitchenOrders.apk
+## APK Master
+`The Accounts are the same as the Dashboard accounts`
+| Type           | Download             |
+|----------------|-------------------|
+| arm64-v8          | https://github.com/SakerDakak/Al-Arbash/releases/download/Al-Arbash.Master/Al-Arbash.Master.arm64-v8.apk    |
+| armeabi-v7a        | https://github.com/SakerDakak/Al-Arbash/releases/download/Al-Arbash.Master/Al-Arbash.Master.armeabi-v7a.apk  |
+| x86_64 | https://github.com/SakerDakak/Al-Arbash/releases/download/Al-Arbash.Master/Al-Arbash.Master.x86_64.apk |
+
+
+
+## APK Client
+Download: https://github.com/SakerDakak/Al-Arbash/releases/download/Al-Arbash.Client/Al-Arbash.Client.apk
+| Type           | Email             | Password  |
+|----------------|-------------------|-----------|
+| Client         | test@client.com   | 123456789 |
 
 ## Screenshort
 <img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/Cover.jpg?raw=true" width="90%"></img>

@@ -32,53 +32,34 @@ Download: https://github.com/SakerDakak/Al-Arbash/releases/download/Al-Arbash.Cl
 |----------------|-------------------|-----------|
 | Client         | test@client.com   | 123456789 |
 
-## Screenshort
-<img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/Cover.jpg?raw=true" width="90%"></img>
-<img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/screenshort_2.png?raw=true" width="45%"></img> 
-<img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/screenshort_3.png?raw=true" width="45%"></img> 
-<img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/screenshort_4.png?raw=true" width="45%"></img> 
-<img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/screenshort_5.png?raw=true" width="45%"></img> 
-<img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/screenshort_6.png?raw=true" width="45%"></img> 
-<img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/screenshort_7.png?raw=true" width="45%"></img> 
+ 
+## Features:
+- Direct gold pricing based on global pricing
+- Hierarchical management and each level has specific permissions
+- Employee management
+- Product management
+- Customer management
+- Record sales of gold piece
+- Statistics
+- Advanced search based on jewelry specifications
+- Search using QR code
+- Analysis of the gold piece code from an image and display of its specifications
+- Unique identifier number for each piece using a new algorithm
+- Addition of several high-quality images for the piece
+- Support for multiple languages (Arabic - English)
+- Compatibility with devices of different sizes with customizable display
+- Addition of profit for each carat of gold
+- Addition of categories for gold pieces
+- Calculation of the total price and weight of the customer's gold
+- Changing the current owner of the gold piece
 
-## Some project features:
+## Dependencies
+- Flutter
+- Dart
+- Firebase
 
-- Supports several languages (Arabic - English)
+## Authors
+- [Saker Al Dakak](https://www.github.com/SakerDakak)
 
-- Compatible with devices of different sizes with width customization
-
-- Detecting internet outages and retrying
-
-- Control the speed of updating orders
-
-- Sort orders by department
-
-- Complete part of the application
-
-- Complete the application
-
-- Send the request to the printer with just one click
-
-- Change the color of the dial according to the elapsed time (green - orange - red)
-
-- Control the transition time of the request color
-
-- Check database connection
-
-- Change the database connection link from within the application
-
-- Supports night mode
-
-- Show the total number of required items in a table
-
-- The ability to search for an item in the table
-
-- Notes on the request
-
-- Notes for an item within the application
-
-- The number of current orders
-
-- Display of the elapsed time since the creation of the request
-
-- View the application on a single page
+## License
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.

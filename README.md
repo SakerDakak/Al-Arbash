@@ -24,14 +24,25 @@ web: https://sakerdakak.github.io/Al-Arbash/
 | armeabi-v7a        | https://github.com/SakerDakak/Al-Arbash/releases/download/Al-Arbash.Master/Al-Arbash.Master.armeabi-v7a.apk  |
 | x86_64 | https://github.com/SakerDakak/Al-Arbash/releases/download/Al-Arbash.Master/Al-Arbash.Master.x86_64.apk |
 
-
-
 ## APK Client
 Download: https://github.com/SakerDakak/Al-Arbash/releases/download/Al-Arbash.Client/Al-Arbash.Client.apk
 | Type           | Email             | Password  |
 |----------------|-------------------|-----------|
 | Client         | test@client.com   | 123456789 |
 
+## Screenshort
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/Cover1.jpg?raw=true" width="90%"></img>
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%201.jpg?raw=true" width="45%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%202.jpg?raw=true" width="45%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%203.jpg?raw=true" width="45%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%204.jpg?raw=true" width="45%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%205.jpg?raw=true" width="45%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%206.jpg?raw=true" width="45%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%207.jpg?raw=true" width="45%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%208.jpg?raw=true" width="45%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%209.jpg?raw=true" width="45%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%2010.jpg?raw=true" width="45%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%2011.jpg?raw=true" width="45%"></img> 
  
 ## Features:
 - Direct gold pricing based on global pricing

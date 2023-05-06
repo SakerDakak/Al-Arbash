@@ -31,18 +31,18 @@ Download: https://github.com/SakerDakak/Al-Arbash/releases/download/Al-Arbash.Cl
 | Client         | test@client.com   | 123456789 |
 
 ## Screenshort
-<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/Cover1.jpg?raw=true" width="100%"></img>
-<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%201.jpg?raw=true" width="50%"></img> 
-<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%202.jpg?raw=true" width="50%"></img> 
-<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%203.jpg?raw=true" width="50%"></img> 
-<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%204.jpg?raw=true" width="50%"></img> 
-<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%205.jpg?raw=true" width="50%"></img> 
-<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%206.jpg?raw=true" width="50%"></img> 
-<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%207.jpg?raw=true" width="50%"></img> 
-<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%208.jpg?raw=true" width="50%"></img> 
-<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%209.jpg?raw=true" width="50%"></img> 
-<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%2010.jpg?raw=true" width="50%"></img> 
-<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%2011.jpg?raw=true" width="50%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/Cover1.jpg?raw=true" width="98%"></img>
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%201.jpg?raw=true" width="49%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%202.jpg?raw=true" width="49%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%203.jpg?raw=true" width="49%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%204.jpg?raw=true" width="49%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%205.jpg?raw=true" width="49%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%206.jpg?raw=true" width="49%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%207.jpg?raw=true" width="49%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%208.jpg?raw=true" width="49%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%209.jpg?raw=true" width="49%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%2010.jpg?raw=true" width="49%"></img> 
+<img src="https://github.com/SakerDakak/Al-Arbash/blob/main/Screenshort/AlArbash%20-%2011.jpg?raw=true" width="49%"></img> 
  
 ## Features:
 - Direct gold pricing based on global pricing

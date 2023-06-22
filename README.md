@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://raw.githubusercontent.com/SakerDakak/Al-Arbash/main/icons/Icon-192.png" align="center" alt="Al-Arbash" />
+ <img width="140px" src="https://raw.githubusercontent.com/SakerDakak/Al-Arbash/main/icons/Icon-192.png" align="center" alt="Al-Arbash" />
  <h1 align="center">Al-Arbash Jewelry</h1>
  <p align="center" >This project manages jewelry for a Saudi Arabian store chain through a website and two mobile apps
  <br>
